@@ -4,7 +4,7 @@
 
 <details>
     <summary>Screenshot of the project</summary>
-    <img src="SCREENSHOT.png">
+    <img src="SCREENSHOT.jpeg">
 </details>
 
 ## 📋 Requirements
